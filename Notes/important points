@@ -1,0 +1,21 @@
+microsoft entra Id - OAuth authorization
+Azure Active Directory Domain Services - Kerberos
+Quotas are designed to help you track your current usage and plan for future. --> Azure Management tool
+
+static Ip address that is exposed to internet.
+dynamic Ip address whenever you reboot the system it will give new ip address.
+
+In Azure Disk Encryption for Linux VMs, which tool is used for encryption - DM-Crypt
+for windows - BitLocker
+What type of encryption is used by Storage Service Encryption - 256-bit - AES
+General Purpose v2 or StorageV2 accounts are needed to use GZRS or RA-GZRS redundancy.
+
+Confidential computing offers encryption for data-in-use and it’s ideal for organizations that handle sensitive data.
+Availability set offers 99.95% SLA - if you are deploying two or more Virtual Machines across an availability set
+WinRM is used to take command line connectivity to Windows VMs. The default port used by WinRM is 5986
+
+
+
+
+
+

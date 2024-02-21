@@ -1,0 +1,31 @@
+NSG is at two level
+    - Subnet level
+    - Network interface level
+
+* Private IP addresses enable communication within an Azure virtual network and your on-premises network. 
+  You create a private IP address for your resource when you use a VPN gateway or Azure ExpressRoute circuit to extend your network to Azure.
+* Public IP addresses allow your resource to communicate with the internet. You can create a public IP address to connect with Azure public-facing services.
+* Deny rule takes pecedence
+* By default, inbound security rules allow traffic from any virtual machine to any other virtual machine within the virtual network.
+* Virtual Network is a valid service tag. Service tags represent a group of IP addresses. Other service tags are Internet, SQL, Storage, AzureLoadBalancer, and AzureTrafficManager.
+* Network security groups are essential for controlling network traffic in Azure virtual networks.
+* NSG rules are evaluated and processed based on priority and can be created for subnets and network interfaces.
+* Application security groups provide an application-centric view of infrastructure and simplify rule management.
+
+Virtual Network Peering:-
+    - types - Global peering (if we want to connect vnet's of two different regions)
+            - Regional Vnet Peering (if want to connect Vnet's in same Region)
+    - High data transfer, Easy configuration and great performance
+    - uses microsoft backbone network for data transfer, offering privacy and low latency.
+    - facilitates connectivity across virtual networks, whether in same region or different region, subscriptions, tenants.
+
+point - to -site- connection: azure users securely can access cloud resources from any location
+gateway subnet  + VPN gateway + P2S configuration + download + connect 
+
+site-to-site connection: secure VPN that spans on-premises vpn device and azure VPN gateway which is located with in gateway subject. 
+enables your on-premises network to send and recieve data from a virtual network as if they were a part of single large local network.
+gateway subnet  + VPN gateway + Local network gateway + On-premises VPN device + siste-to-site 
+
+
+Vnet peering is cheap compared to Vnet-to-Vnet
+CIDR for VNet-a is /30; in Azure, we can only create till /29. 

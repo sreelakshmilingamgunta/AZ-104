@@ -1,0 +1,53 @@
+- Azure active directory is microsoft cloud based identity and access management service.which helps your employees to sign in and access resources in -external resources such as 
+  microsoft office 365, azure portal and  so many saas applications and -internal resources such as apps on your corporate network and intenet. along with any cloud apps developed by our own organization.
+
+- things to consider while using microsoft entra ID
+        - Consider enabling single sign-on access
+        - Consider UX and device support.Build a consistent user experience that works for all devices and directory access points. 
+        - Consider benefits of secure remote access. Protect your on-premises web apps by implementing secure remote access with MFA and access policies.
+        - Consider advantages of cloud extensibility. Connect Active Directory and other on-premises directories in the cloud to Microsoft Entra ID in just a few steps
+        - Consider advanced protection for sensitive data. Enhance the security of your sensitive data and apps by using the built-in protection features of Microsoft Entra ID. 
+        - Consider reduced costs, self-service options. Take advantage of the Microsoft Entra self-service features to help reduce costs for your organization. 
+
+* Identity - any object that can be authenticated it could be a user, group, managed identity, service principlal
+managed identity - is a identity of a services in azure. like vm and app services has identity that could be used to access other services.
+
+service principals are similar to service accounts that we have on on premises. 
+in certain cases we want to automate things we want to execute behalf of a user. those kind of scinarios we will use service principal.
+
+* Account - when we associate data attributes to an identity. ex a user can have multiple attributes like location, phone number, dapartment manager etc these kind information attached to user identity to make user account.
+* Microsoft Entra Id account - account created in microsoft entra id.
+* Microsoft entra id or tenant or directory - dedicated instance of microsoft entra id. that is created during the signup for any microsoft cloud subscription.
+when we signup for azure account an  tenant will be created all the subscriptions that iam going to purchase later will be mapped to tenant.
+
+AD DS is primarily a directory service, while Microsoft Entra ID is a full identity solution. 
+
+premium P2 Edition - previliged identity management, identity protection and governance.
+premium P1 Edition - maintain robust framework with advanced group management and conditional access coupled with multifactor authentication.
+Governance Edition - streamlining identity life cycle management. it ensures that access rights are granted according to the policies, and reviewed regularly.--> it is not available in azure ad
+                    - it includes Previliged identity management too.
+
+Registered Devices --> Imagine users are using personal mobiles and tablets to access work, emails or documents --these devices are managed through microsoft intune
+Joined Devices - Ideal for organization that are fully invested in the cloud these are typically used by companies fro work and directly joined to microsoft entra Id and these kind of accounts requires company account.
+hybrid Joined Devices - perfect for using on-premises and cloud these devices are joined to both local active directory and microsoft entra Id.
+
+Microsoft Entra Id > Users > All Users
+
+* User Accounts * 
+cloud Identities - existes purely on the cloud with no dependencies on on-premises. Ideal for organization and offering agiliy and ease access from any where
+Guest Accounts - identities that are created for exyternal users.exists outside of the azure and invited for collaboration.
+Directory synchronized users - users whose identities are synchronized from   an on-premises directory to cloud by using microsoft enra id connect tool
+
+* Group Accounts * 
+Security groups - these groups are designed to manage member permissions for resource access. ex a security group created azure-adm could be created to grant administrative previliges on azure services to it's members.
+Microsoft 365 groups - which are oriented towards collaboration. these groups integrated with microsoft 365 services providing shared workspace like sharepoint, Outlook Teams
+
+assignment types
+- assign are those members are added manually
+- Dynamic User groups use rules to automatically add or remove members based on user attributes.
+- Dynamic Device - [only security groups] - based on device attribute.
+
+Global Administrator - super user role in microsoft entra id
+
+
+

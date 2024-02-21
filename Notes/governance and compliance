@@ -1,0 +1,29 @@
+you need to offer a support request with microsoft. it will evaluate our request change the quota for us. some of them will have a hard limit means we can't change. soft limit can be changed.
+by using tages we can automate tasks such automation, reporting and cost tracking.
+
+cost analysis is a dashboard for financial clarity. 
+Budgets and recommendations - they help you set spending limits and forecosts future costs to avoid surprises.
+Azure Advisor - personalized recommendations from where we can save money. identifying underutilizing services that we can scale down.
+export data present your spending t stake holder especially for business users. allows you to download the data and send it to storage accounts.
+
+Azure Policy - D A S C - definition, Assignment, Scope, Compliance
+RBAC -  security principal - who?
+     -  Role definition - what?        >> Role Assignment
+     -  scope - where? 
+
+
+administer Azure Resources:-
+--------------------------
+The resource group stores metadata about the resources.
+
+Azure Policy is a service in Azure that enables you to create, assign, and manage policies. Azure Policy helps you define and implement your governance strategy by using policies to control and audit your resources.
+
+In this module, you have learned about Azure Policy and how it allows you to control and audit your resources. You explored how to implement Azure policy definitions and initiatives for your corporate departments. You learned how to create management groups, scope policies, and manage spending budgets. You reviewed how Azure policies can be scoped to meet compliance regulations.
+
+The main takeaways from this module are:
+
+Azure Policy is a powerful service in Azure that enables you to enforce rules and ensure compliance with corporate standards and service level agreements.
+Management groups provide a way to efficiently manage access, policies, and compliance across multiple subscriptions, allowing for unified policy and access management.
+Creating policy definitions and initiative definitions allows you to define conventions for resources and control the scope of policies, ensuring resource compliance.
+The Compliance feature in Azure Policy helps you determine the state of your resources and evaluate whether they're compliant or not.
+
