@@ -1,0 +1,47 @@
+A lifecycle management rule can be used to move or delete blobs automatically.
+
+Application Gateway is used to balance traffic between backend pools, and it provides multisite load balancing capabilities.
+
+While Azure Load Balancer is used to balance traffic for a backend pool of compute resources, it is not used to balance traffic for a multisite backend solution.
+
+Network Watcher is the monitoring and diagnostic tool for troubleshooting networks. It is enabled on a per-region basis in your Azure subscriptions.
+
+The App Service Plan has already been created along with the web app; therefore, there is no need to create another one.
+
+Azure private Link is a service that allows us to provide a private IP address to Azure services and third-party services in virtual networks. You would not use it to provide IP addresses to nodes in an AKS cluster.
+
+Creating an OAuth 2.0 authorization endpoint is necessary for enabling authentication and authorization mechanisms between Azure AD and AKS.
+
+Only a global administrator can add users to this tenant.
+
+Storage Blob Data Contributor --> Read, write, and delete Azure Storage containers and blobs
+Reader --> View all resources, but does not allow you to make any changes
+
+User1 must view the data in any storage account.- reder and data access
+
+User2 must assign users the Contributor role for storage accounts. - user access administrator
+
+Network traffic from the VPN gateway is routed to the cloud application through an internal load balancer. The load balancer is located in the front-end subnet of the application.
+
+ssh - 22
+without public Ip address
+	- an azure VPN gateway
+	- a html5-supported web browser
+	- a subnet named AzureBastionSubnet
+
+Object replication can be used to replicate blobs between storage accounts. Before configuring object replication, you must enable blob versioning for both storage accounts, and you must enable the change feed for the source account
+
+For accessing the file share, port 445 must be open. Port 5671 is used to send health information to Microsoft Entra
+Port 80 is used to download certificate revocation lists (CRLs) to verify TLS/SSL certificates. Port 443 is used for https traffic, for example to sync AD DS with Microsoft Entra.
+
+Add-AzVhd: Uploads an on-premises VHD to Azure
+New-AzVM: Used to create a new virtual machine
+New-AzDisk: Used to create a managed disk
+New-AzDataShare: Used to create an Azure data share
+
+File shares can be configured to use Microsoft Entra Kerberos to provide identity-based access to data storage.
+
+Azure Service Bus, an event-driven trigger can be used to run the escalation method.
+
+
+A SAS provides secure delegated access to resources in a storage account. With a SAS, you have granular control over how a client can access data, including time restrictions.
