@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T11:27:44.712Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="JgM3n3CT43wTIqcgUGcV" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-11T12:35:17.136Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="q9svQcxEVukxWq4Vgcwb" version="24.6.4" type="github">
   <diagram name="Page-1" id="8J8CI9a2RkK4PR5-pnM1">
-    <mxGraphModel dx="2204" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2140" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,7 +37,7 @@
         <mxCell id="qxKDzWrQgZj0N8IZbKUJ-9" value="Calling&amp;nbsp;&lt;br&gt;function&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="140" y="360" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2aUiwVNK7H2atm20lD8y-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qxKDzWrQgZj0N8IZbKUJ-10" target="qxKDzWrQgZj0N8IZbKUJ-12">
+        <mxCell id="2aUiwVNK7H2atm20lD8y-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qxKDzWrQgZj0N8IZbKUJ-10" target="qxKDzWrQgZj0N8IZbKUJ-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qxKDzWrQgZj0N8IZbKUJ-10" value="Create Workspace" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -74,7 +74,7 @@
           <mxGeometry x="30" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qxKDzWrQgZj0N8IZbKUJ-35" value="Triggering the Build &lt;b&gt;1. Acos.configuration&lt;/b&gt; using manifest file uno-crc&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="600" width="450" height="40" as="geometry" />
+          <mxGeometry x="182" y="600" width="450" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qxKDzWrQgZj0N8IZbKUJ-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qxKDzWrQgZj0N8IZbKUJ-36" target="qxKDzWrQgZj0N8IZbKUJ-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -97,8 +97,8 @@
         <mxCell id="qxKDzWrQgZj0N8IZbKUJ-39" value="&lt;b&gt;Build SDK&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="860" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qxKDzWrQgZj0N8IZbKUJ-40" value="Triggering the Build &lt;b&gt;3. Docker Images &amp;gt;&amp;gt;dev-cpp &amp;gt;&amp;gt; master&lt;/b&gt;&lt;br&gt;Jenkins file  - Docker/ dev-cpp/Jenkinsfile&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="870" width="410" height="40" as="geometry" />
+        <mxCell id="qxKDzWrQgZj0N8IZbKUJ-40" value="Triggering the Build &lt;b&gt;3. Docker Images &amp;gt;&amp;gt;dev-cpp &amp;gt;&amp;gt; master&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="860" width="410" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qxKDzWrQgZj0N8IZbKUJ-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qxKDzWrQgZj0N8IZbKUJ-41" target="qxKDzWrQgZj0N8IZbKUJ-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -106,8 +106,8 @@
         <mxCell id="qxKDzWrQgZj0N8IZbKUJ-41" value="&lt;b&gt;Quality gates&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="950" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qxKDzWrQgZj0N8IZbKUJ-42" value="Triggering the Builds paralelly&lt;br&gt;&lt;b&gt;4. Integration Test Framework Next » itfn.bdd.testsuite.energon.rooms.runner » master&lt;/b&gt;&lt;br&gt;jenkinsfile - Integration Test Framework Next/ itfn.bdd.testsuite.energon.rooms.runner/ Jenkinsfile&lt;br&gt;&lt;b&gt;5. Local Visualisation » behave-hmi-testing.smoke » master&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="940" width="600" height="90" as="geometry" />
+        <mxCell id="qxKDzWrQgZj0N8IZbKUJ-42" value="Triggering the Builds paralelly&lt;br&gt;&lt;b&gt;4. Integration Test Framework Next » itfn.bdd.testsuite.energon.rooms.runner » master&lt;/b&gt;&lt;br&gt;&lt;b&gt;5. Local Visualisation » behave-hmi-testing.smoke » master&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="955" width="600" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qxKDzWrQgZj0N8IZbKUJ-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qxKDzWrQgZj0N8IZbKUJ-43" target="qxKDzWrQgZj0N8IZbKUJ-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -136,16 +136,16 @@
         <mxCell id="qxKDzWrQgZj0N8IZbKUJ-75" value="Triggering the build &lt;b&gt;6. ACOS 2.0 &amp;gt;&amp;gt; azure-node &amp;gt;&amp;gt; master&lt;/b&gt;&lt;br&gt;Jenkinsfile - meta-crc/ azure-node/ jenkinfile" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="187" y="1160" width="500" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2aUiwVNK7H2atm20lD8y-4" value="Branch Validation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2aUiwVNK7H2atm20lD8y-4" value="Branch Validation" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="230" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2aUiwVNK7H2atm20lD8y-5" value="Check Release Tag" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2aUiwVNK7H2atm20lD8y-5" value="Check Release Tag" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="270" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2aUiwVNK7H2atm20lD8y-6" value="Increment Nuspec Version" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2aUiwVNK7H2atm20lD8y-6" value="Increment Nuspec Version" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="310" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2aUiwVNK7H2atm20lD8y-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="2aUiwVNK7H2atm20lD8y-4">
+        <mxCell id="2aUiwVNK7H2atm20lD8y-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="2aUiwVNK7H2atm20lD8y-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="150" y="310" as="sourcePoint" />
             <mxPoint x="220" y="330" as="targetPoint" />
@@ -158,7 +158,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2aUiwVNK7H2atm20lD8y-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="2aUiwVNK7H2atm20lD8y-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="150" y="320" as="sourcePoint" />
             <mxPoint x="260" y="285" as="targetPoint" />
@@ -169,7 +169,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2aUiwVNK7H2atm20lD8y-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="2aUiwVNK7H2atm20lD8y-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="151" y="320" as="sourcePoint" />
             <mxPoint x="260" y="325" as="targetPoint" />
