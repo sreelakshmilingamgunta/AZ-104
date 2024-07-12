@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2024-07-11T12:35:17.136Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="q9svQcxEVukxWq4Vgcwb" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-12T04:18:13.157Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="WV4yLOmXw8bgA4WjUPLM" version="24.6.4" type="github">
   <diagram name="Page-1" id="8J8CI9a2RkK4PR5-pnM1">
-    <mxGraphModel dx="2140" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2140" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qxKDzWrQgZj0N8IZbKUJ-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qxKDzWrQgZj0N8IZbKUJ-1" target="qxKDzWrQgZj0N8IZbKUJ-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qxKDzWrQgZj0N8IZbKUJ-1" value="&lt;b&gt;Loading Parameter oon first Build&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="qxKDzWrQgZj0N8IZbKUJ-1" value="&lt;b&gt;Loading Parameter on first Build&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qxKDzWrQgZj0N8IZbKUJ-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qxKDzWrQgZj0N8IZbKUJ-2" target="qxKDzWrQgZj0N8IZbKUJ-3" edge="1">
@@ -73,7 +73,7 @@
         <mxCell id="qxKDzWrQgZj0N8IZbKUJ-34" value="&lt;b&gt;acos.configuration update&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qxKDzWrQgZj0N8IZbKUJ-35" value="Triggering the Build &lt;b&gt;1. Acos.configuration&lt;/b&gt; using manifest file uno-crc&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="qxKDzWrQgZj0N8IZbKUJ-35" value="Triggering the Build &lt;b&gt;Acos.configuration&lt;/b&gt; using manifest file uno-crc&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="182" y="600" width="450" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qxKDzWrQgZj0N8IZbKUJ-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qxKDzWrQgZj0N8IZbKUJ-36" target="qxKDzWrQgZj0N8IZbKUJ-38" edge="1">
@@ -82,7 +82,7 @@
         <mxCell id="qxKDzWrQgZj0N8IZbKUJ-36" value="&lt;b&gt;Build Desktoptools&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qxKDzWrQgZj0N8IZbKUJ-37" value="Triggering the Build &lt;b&gt;2. Desktop tools&lt;/b&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="qxKDzWrQgZj0N8IZbKUJ-37" value="Triggering the Build &lt;b&gt;Desktop tools&lt;/b&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="690" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qxKDzWrQgZj0N8IZbKUJ-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qxKDzWrQgZj0N8IZbKUJ-38" target="qxKDzWrQgZj0N8IZbKUJ-39" edge="1">
@@ -97,8 +97,8 @@
         <mxCell id="qxKDzWrQgZj0N8IZbKUJ-39" value="&lt;b&gt;Build SDK&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="860" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qxKDzWrQgZj0N8IZbKUJ-40" value="Triggering the Build &lt;b&gt;3. Docker Images &amp;gt;&amp;gt;dev-cpp &amp;gt;&amp;gt; master&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="860" width="410" height="40" as="geometry" />
+        <mxCell id="qxKDzWrQgZj0N8IZbKUJ-40" value="Triggering the Build &lt;b&gt;Docker Images &amp;gt;&amp;gt;dev-cpp &amp;gt;&amp;gt; master&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="880" width="410" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qxKDzWrQgZj0N8IZbKUJ-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qxKDzWrQgZj0N8IZbKUJ-41" target="qxKDzWrQgZj0N8IZbKUJ-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -106,7 +106,7 @@
         <mxCell id="qxKDzWrQgZj0N8IZbKUJ-41" value="&lt;b&gt;Quality gates&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="950" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qxKDzWrQgZj0N8IZbKUJ-42" value="Triggering the Builds paralelly&lt;br&gt;&lt;b&gt;4. Integration Test Framework Next » itfn.bdd.testsuite.energon.rooms.runner » master&lt;/b&gt;&lt;br&gt;&lt;b&gt;5. Local Visualisation » behave-hmi-testing.smoke » master&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="qxKDzWrQgZj0N8IZbKUJ-42" value="Triggering the Builds paralelly&lt;br&gt;&lt;b&gt;Integration Test Framework Next » itfn.bdd.testsuite.energon.rooms.runner » master&lt;/b&gt;&lt;br&gt;&lt;b&gt;Local Visualisation » behave-hmi-testing.smoke » master&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="955" width="600" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qxKDzWrQgZj0N8IZbKUJ-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qxKDzWrQgZj0N8IZbKUJ-43" target="qxKDzWrQgZj0N8IZbKUJ-44" edge="1">
@@ -133,7 +133,7 @@
         <mxCell id="qxKDzWrQgZj0N8IZbKUJ-73" value="." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-5" y="938" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qxKDzWrQgZj0N8IZbKUJ-75" value="Triggering the build &lt;b&gt;6. ACOS 2.0 &amp;gt;&amp;gt; azure-node &amp;gt;&amp;gt; master&lt;/b&gt;&lt;br&gt;Jenkinsfile - meta-crc/ azure-node/ jenkinfile" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="qxKDzWrQgZj0N8IZbKUJ-75" value="Triggering the build &lt;b&gt;ACOS 2.0 &amp;gt;&amp;gt; azure-node &amp;gt;&amp;gt; master&lt;/b&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="187" y="1160" width="500" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2aUiwVNK7H2atm20lD8y-4" value="Branch Validation" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -182,6 +182,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <UserObject label="running the script&amp;nbsp;sh &lt;b&gt;&quot;./scripts/tag_release.sh -yrv&quot;&lt;/b&gt;" id="kJXKEqrPP4EzpfZiPOEI-1">
+          <mxCell style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+            <mxGeometry x="190" y="790" width="390" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
