@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2024-07-12T04:20:02.036Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="FAptJm-MpycLcpX3KYUF" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-12T04:22:22.256Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="lECZTQM_ZzDCvAEmCbzj" version="24.6.4" type="github">
   <diagram name="Page-1" id="8J8CI9a2RkK4PR5-pnM1">
-    <mxGraphModel dx="2140" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2140" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qxKDzWrQgZj0N8IZbKUJ-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qxKDzWrQgZj0N8IZbKUJ-1" target="qxKDzWrQgZj0N8IZbKUJ-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qxKDzWrQgZj0N8IZbKUJ-1" value="&lt;b&gt;Loading Parameter on first Build&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="qxKDzWrQgZj0N8IZbKUJ-1" value="Loading parameters on first build" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="30" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qxKDzWrQgZj0N8IZbKUJ-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qxKDzWrQgZj0N8IZbKUJ-2" target="qxKDzWrQgZj0N8IZbKUJ-3" edge="1">
@@ -134,7 +134,7 @@
           <mxGeometry x="-5" y="938" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qxKDzWrQgZj0N8IZbKUJ-75" value="Triggering the build &lt;b&gt;ACOS 2.0 &amp;gt;&amp;gt; azure-node &amp;gt;&amp;gt; master&lt;/b&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="1160" width="500" height="40" as="geometry" />
+          <mxGeometry x="187" y="1160" width="500" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2aUiwVNK7H2atm20lD8y-4" value="Branch Validation" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="230" width="150" height="30" as="geometry" />
